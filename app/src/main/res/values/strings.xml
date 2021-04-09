@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="note">With offline access, your notes are always with you—even if you’re nowhere near a WiFi or mobile data signal.
+</string>
+    <string name="bground">bground</string>
+    <string name="box2">Express ideas, capture images, and record audio in meetings or lectures, all from your phone or tablet</string>
+    <string name="box3">Go paperless. Back up important documents to all your devices, and keep the information—not the clutter.</string>
+    <string name="box5">Take your notes and never lose them again.</string>
+    <string name="title_activity_add_notes">AddNotes</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
