@@ -3,5 +3,8 @@
     <item
         android:title="clear"
         android:id="@+id/clearmenuitem"></item>
+    <item
+        android:title="show timings"
+        android:id="@+id/showtiming"></item>
 
 </menu>

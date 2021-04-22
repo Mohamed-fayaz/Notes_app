@@ -3,19 +3,18 @@
     package="com.example.notes">
 
     <application
-        android:name=".MyApp"
+        android:name=".Notesapplication"
         android:allowBackup="true"
         android:icon="@drawable/notesicon"
         android:label="@string/app_name"
         android:roundIcon="@drawable/notesicon"
         android:supportsRtl="true"
         android:theme="@style/Theme.Notes">
+        <activity android:name=".timer.timerShow"></activity>
         <activity
-            android:name=".AddNotes"
+            android:name=".addNotes.AddNotes"
             android:label="@string/title_activity_add_notes"
-            android:theme="@style/Theme.Notes.NoActionBar">
-
-        </activity>
+            android:theme="@style/Theme.Notes.NoActionBar"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
